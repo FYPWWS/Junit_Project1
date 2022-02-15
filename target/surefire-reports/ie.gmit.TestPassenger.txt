@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ie.gmit.TestPassenger
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in ie.gmit.TestPassenger
+ie.gmit.TestPassenger.testConstructorInvalidTitle  Time elapsed: 0.007 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Expected java.lang.IllegalArgumentException to be thrown, but nothing was thrown.
+	at ie.gmit.TestPassenger.testConstructorInvalidTitle(TestPassenger.java:15)
+
